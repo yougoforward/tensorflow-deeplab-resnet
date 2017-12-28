@@ -1,4 +1,7 @@
 # DeepLab-ResNet-TensorFlow
+forked from DrSleep/tensorflow-deeplab-resnet (https://github.com/DrSleep/tensorflow-deeplab-resnet)
+add voc12 test code(save result predictions into gray .png with eval_voc12.py or colored .png with eval_voc12_color.py)
+deeplabv3 is being implemented!
 
 [![Build Status](https://travis-ci.org/DrSleep/tensorflow-deeplab-resnet.svg?branch=master)](https://travis-ci.org/DrSleep/tensorflow-deeplab-resnet)
 
